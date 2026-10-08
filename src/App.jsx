@@ -18,7 +18,7 @@ function App() {
           <p className="tag">CI/CD DEMO PROJECT</p>
 
           <h1>
-            Build. Test.
+            Build. Test. with CI/CD
             <br />
             <span>Deploy.</span>
           </h1>
